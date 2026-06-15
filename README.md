@@ -99,11 +99,11 @@ HTML, CSS, JavaScript, MySQL, Node.js, Visual Studio Code, Chart.js, REST APIs
 <h3>Dashboard Overview</h3>
 <img src="Screenshots/image-1.png" width="100%">
 
-<h3>Sales Analysis</h3>
+<h3>Primary Data Sales Analysis-1</h3>
 <img src="Screenshots/image-2.png" width="100%">
 
-<h3>Customer and Site Analysis</h3>
+<h3>Primary Data Sales Analysis-2</h3>
 <img src="Screenshots/image-3.png" width="100%">
 
-<h3>Database and Backend Integration</h3>
+<h3>Secondary Data Sales Analysis-1</h3>
 <img src="Screenshots/image-4.png" width="100%">
