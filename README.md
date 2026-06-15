@@ -92,3 +92,18 @@ HTML, CSS, JavaScript, MySQL, Node.js, Visual Studio Code, Chart.js, REST APIs
 18. Reporting Automation
 19. Interactive Dashboard Design
 20. Full-Stack Analytics Development
+
+
+## Dashboard Screenshots
+
+<h3>Dashboard Overview</h3>
+<img src="Screenshots/image-1.png" width="100%">
+
+<h3>Sales Analysis</h3>
+<img src="Screenshots/image-2.png" width="100%">
+
+<h3>Customer and Site Analysis</h3>
+<img src="Screenshots/image-3.png" width="100%">
+
+<h3>Database and Backend Integration</h3>
+<img src="Screenshots/image-4.png" width="100%">
