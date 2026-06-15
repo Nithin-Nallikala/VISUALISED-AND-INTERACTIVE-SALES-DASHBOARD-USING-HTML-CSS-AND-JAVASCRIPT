@@ -107,3 +107,9 @@ HTML, CSS, JavaScript, MySQL, Node.js, Visual Studio Code, Chart.js, REST APIs
 
 <h3>Secondary Data Sales Analysis-1</h3>
 <img src="Screenshots/image-4.png" width="100%">
+
+<h3>Secondary Data Sales Analysis-1</h3>
+<img src="Screenshots/image-5.png" width="100%">
+
+<h3>Secondary Data Sales Analysis-1</h3>
+<img src="Screenshots/image-6.png" width="100%">
